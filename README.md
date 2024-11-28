@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Ivrigy
-- 👀 I’m interested in ux/ui
-- 🌱 I’m currently learning ux/ui, html, css, javascript
-- 💞️ I’m looking to collaborate on different project including things mentioned above
+- 👀 I’m product designer learning to code
+- 💞️ I’m looking to collaborate on different projects
 - 📫 write me here
 
 <!---
